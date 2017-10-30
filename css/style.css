@@ -99,14 +99,16 @@ header {
 
 section {
   background-color: #f2f6f5;
+
 }
 
 .post {
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   float: left;
   width: 100%;
   padding-left: 5%;
-  padding-top: 20px;
+  padding-top: 40px;
+  padding-bottom: 20px;
   background-color: #f2f6f5;
 }
 
@@ -211,6 +213,7 @@ button {
   color: white;
   background-color: #01214c;
   font-weight: bold;
+  border: none;
 }
 
 footer {
